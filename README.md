@@ -1,6 +1,1 @@
-# BabyCobol in Lean4
-
-# How to run
-```bash
-lake exec baby_cobol
-```
+# We decided to do it on python, new [repo here](https://github.com/Michael-Janssen-dev/baby-cobol-compiler-rust)
